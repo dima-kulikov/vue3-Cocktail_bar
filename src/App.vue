@@ -10,4 +10,4 @@ import { RouterView } from 'vue-router'
 <style scoped>
 
 </style>
-<!-- https://www.youtube.com/watch?v=kVAkqvoGc8A  11 min -->
+<!-- https://www.youtube.com/watch?v=kVAkqvoGc8A  19 min -->
